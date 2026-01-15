@@ -6,9 +6,9 @@ The very thought of terminal can give you goosebumps, if you are new to Linux. H
 
 There is a useful command to search the command history:
 
-```bash
+```
 Ctrl + R
-
+```
 
 ## Clear the Screen without Clearing the History
 
