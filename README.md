@@ -6,7 +6,7 @@ The very thought of terminal can give you goosebumps, if you are new to Linux. H
 
 There is a useful command to search the command history:
 
-```
+```bash
 Ctrl + R
 ```
 
@@ -48,7 +48,7 @@ In order to find a file instantly, you can use the command:
 find . -name "*.log"
 ```
 
-## Kill frozen applications or programs
+## Kill frozen applications or p origin rograms
 
 To kill a frozen application or a program that is not responding, you can use the command:
 
