@@ -70,7 +70,7 @@ In order to copy and paste something from the terminal:
 Ctrl + Shift + C
 ```
 
-Secondly, to paste something on the terminal:
+Secondly, to paste something on the terminal:-
 
 ```
 Ctrl + Shift + V
