@@ -48,7 +48,7 @@ In order to find a file instantly, you can use the command:
 find . -name "*.log"
 ```
 
-## Kill frozen applications or p origin rograms
+## Kill frozen applications or programs
 
 To kill a frozen application or a program that is not responding, you can use the command:
 
